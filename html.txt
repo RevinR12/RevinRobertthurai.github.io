@@ -1,0 +1,55 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+    <title>Revin Robertthurai</title>
+
+    <meta name="author" content="Revin Robertthurai">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="images/favicon/favicon.ico" type="image/x-icon">
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+    
+  </head>
+
+  <body>
+    <table style="width:100%;max-width:800px;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+      <tr style="padding:0px">
+        <td style="padding:0px">
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+            <tr style="padding:0px">
+              <td style="padding:2.5%;width:63%;vertical-align:middle">
+                <p class="name" style="text-align: center;">
+                  Revin Robertthurai
+                </p>
+                <p>I'm a student attending <a href="https://www.yorku.ca/">York University</a> in Ontario, where I continue my studies as a seccond year student in the field <a href="https://www.yorku.ca/uit/">of Information Technology.</a>.
+                </p>
+                <p>
+                  While attending this school I gained a lot of intrest into pursing my carrer, while being here I also gained alot of friends/allies to help me on my journey. On this website I will be sharing some intreasting facts about me.</a>. 
+                </p>
+                <p style="text-align:center">
+                  <a href="mailto:revinr12@my.yorku.ca">Email</a> &nbsp;/&nbsp;
+                  <a href="file:///C:/Users/rober/Documents/RevinRobertthuraibio.html">Bio</a> &nbsp;/&nbsp;		
+                  <a href="https://github.com/jonbarron/">Github</a>
+                </p>
+              </td>
+              <td style="padding:2.5%;width:40%;max-width:40%">
+               <a href="images/igbanger.jpg"><img style="width:100%;max-width:100%;object-fit: cover; border-radius: 50%;" alt="profile photo" src="images/JonBarron.jpg" class="hoverZoomLink"></a>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+              <tr>
+              <td style="padding:20px;width:100%;vertical-align:middle">
+                <h2>Who Am I?</h2>
+                <p>
+                  I am a person with a lot of intrests and hobbies i.e., I love computers wether its building them or using them to game, I also love playing basketball, working out, boxing. I also love hanging out with friends and family. Those are mainly my hobbies and intrests. But I also have goals. They are to not live a normal life on a loop, what I mean by this is in the far futrure I dont want to live on a sceducle every day, I want to see everyday as a new adventure, that is my main goal in life and to be very happy were I dont really have problems to worry about. Its a crazy goal but I wanna do my absoulte best to achieve it. <span class="highlight">.
+                </p>
+              </td>
+            </tr>
+          </tbody></table>
+          <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;"><tbody>
+
+
+   
+               
